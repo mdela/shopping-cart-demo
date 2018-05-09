@@ -3,11 +3,11 @@ Aplicación web de facturación simple con carrito de compras en Laravel
 
 # How do I get set up?
 
-1. Una vez instalado el proyecto a nivel local, ubicar el archivo de configuración del entorno (.env) en la raíz del proyecto para setear la conexión a la base de datos.
+- 1. Una vez instalado el proyecto a nivel local, ubicar el archivo de configuración del entorno (.env) en la raíz del proyecto para setear la conexión a la base de datos.
 
-2. Ejecutar las migraciones y seeders para poblar las tablas principales del sistema (Productos, stock, facturas, etc.) comando : php artisan migrate --seed
+- 2. Ejecutar las migraciones y seeders para poblar las tablas principales del sistema (Productos, stock, facturas, etc.) comando : php artisan migrate --seed
 
-3. Por último, levantar la aplicación con el comando: php artisan serve //localhost:8000
+- 3. Por último, levantar la aplicación con el comando: php artisan serve //localhost:8000
 
 # Features
 - Alta de facturas asociadas a cliente 
