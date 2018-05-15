@@ -1,4 +1,4 @@
-# Shopping Cart Demo
+# LARAVEL Shopping Cart Demo
 Aplicación web de facturación simple con carrito de compras en Laravel
 
 # How do I get set up?
